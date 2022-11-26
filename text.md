@@ -1,0 +1,13 @@
+# Instructions for Github
+
+>**git config user.name** - initialize username
+
+>**git config user.email** - initialize mail
+
+>**git status** - get information about git status
+
+>** git add file_Name** - track file
+
+>**git commit -m"commit-message"** - fix changes with files
+> - -m - (message)
+> - -a - (let us avoid repeating command add)
