@@ -23,7 +23,4 @@
 
  > git merge - combine two branches
 
- > git chekout -b name - creating and transition new branch
-
-
-
+ > Example text
