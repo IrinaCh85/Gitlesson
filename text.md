@@ -22,5 +22,8 @@
  > git branch name - create new branch
 
  > git merge - combine two branches
+ 
+ > git chekout -b name - creating and transitionnto new branch
+
 
 
