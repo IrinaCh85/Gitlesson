@@ -1,35 +1,26 @@
 # Instructions for Github
 
-![logo](logo.png)
+>**git config user.name** - initialize username
 
->Git — это набор консольных утилит, которые отслеживают и фиксируют изменения в файлах. С его помощью можно сравнивать, анализировать, редактировать, сливать изменения и возвращаться назад к последнему сохранению. Этот процесс называется контролем версий.
+>**git config user.email** - initialize mail
 
->1. **git config user.name** - initialize username
+>**git status** - get information about git status
 
->2. **git config user.email** - initialize mail
+>** git add file_Name** - track file
 
->3. **git status** - get information about git status
+>**git commit -m"commit-message"** - fix changes with files
+> - -m - (message)
+> - -a - (let us avoid repeating command add)
 
->4. **git add file_Name** - track file
+>**git log** - get information about commits
+>**git chekout 1234** - transition between commits
 
->5. **git commit -m"commit-message"** - fix changes with files
+>**git diff** - show differences in our file
 
-> *- -m - (message)*
+> git branch - display out branches
 
-> *- -a - (let us avoid repeating command add)*
+ > git branch name - create new branch
 
->6. **git log** - get information about commits
->7. **git chekout 1234** - transition between commits
+ > git merge - combine two branches
 
->8. **git diff** - show differences in our file
 
->9. git commit -m 'Add some code'
-
->10. ![ссылка на статью]
-
-[def]: https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
-[def2]: лого.png
-
->git branch - display out branches
-
-> git branch name - create new branch
